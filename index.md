@@ -1,4 +1,4 @@
-# Manuel Gonsalves
+# Manuel (Jack) Gonsalves
 ## HCI Portfolio and Design Manifesto
 
 ### Introduction
@@ -23,5 +23,7 @@ You can work on a proto-type for hours and try and find everything that could go
 ### Conclusion:
 If I learned anything from the projects in this class it’s that just like the rest of life failing is incredibly important when it comes to design. When designing anything if you only succeeded then you weren’t thinking big enough and spent way too much time designing. There are always more ideas to explore and new tools that are being created every day to help build future technology. You could have done user tests much earlier to get these different ideas, and with more time and users someone will eventually find a mistake in your design. 
 
+## About Me
+I am currently a student at Worcester Polytechnic Institute studying computer science and enjoy studying databases and optimization. I am about to finish my Junior year. I enjoy Climbing, Basketball, other sports, cards, and other games. 
 
 

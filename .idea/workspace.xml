@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97dc0527-9f84-48d1-9bfb-098639ef1ab8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="97dc0527-9f84-48d1-9bfb-098639ef1ab8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +15,8 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="357">
-                <caret line="21" column="444" selection-start-line="21" selection-start-column="444" selection-end-line="21" selection-end-column="444" />
+              <first_editor relative-caret-position="459">
+                <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               </first_editor>
               <second_editor />
             </state>
@@ -99,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525123965268</updated>
-      <workItem from="1525123966997" duration="4109000" />
+      <workItem from="1525123966997" duration="4487000" />
     </task>
     <task id="LOCAL-00001" summary="part 1 first draft">
       <created>1525138790689</created>
@@ -112,7 +110,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4109000" />
+    <option name="totallyTimeSpent" value="4487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -153,8 +151,8 @@
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="357">
-            <caret line="21" column="444" selection-start-line="21" selection-start-column="444" selection-end-line="21" selection-end-column="444" />
+          <first_editor relative-caret-position="459">
+            <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           </first_editor>
           <second_editor />
         </state>
