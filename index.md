@@ -2,45 +2,26 @@
 ## HCI Portfolio and Design Manifesto
 
 ### Introduction
-   This semester has completely changed the way I think about designing anything and what the end goal is. Originally, I saw it as a talent that you either had, or you did not, but over the course of the term I have come to realize that just like any other computer science problem or any problem for that matter it can be broken down and solved in a systematic way. From working through different projects that presented different problems I have refined my process and ideas for designing. In the end, what ever is created should be simple enough that a most people should be able to use intuitively. 
+   This semester has completely changed the way I think about designing anything and what the end goal is. Originally, I saw it as a talent that you either had, or you did not, but over the course of the term I have come to realize that just like any other computer science problem or any problem for that matter it can be broken down and solved in a systematic way. From working through different projects that presented different problems I have refined my process and ideas for designing.  
 
 ### Part 1: You’re Wrong
-   The first part of any good design for a project is first to find out what you are trying to even do in the first place. This is possibly the hardest problem that I faced because unlike math or other problems in computer science where there is generally a limited number of answers when it comes to design there is a near infinite number of solutions. This means instead of taking your first idea and running with it you really must think about it, and I found for the most part my first idea was nowhere even close to the best idea. The first project, [Design for others](https://medium.com/@tiffanykayo96/design-for-other-technocopia-e2034fbf00eb), helped to really emphasize this point. The project was to re-design a website for mobile phones for a certain demographic. At first, the designing for a certain demographic seemed like a restriction and was going to make the problem harder, but it helped in bringing the scope of the project down. In the first part of the project we focused on all the different ways we could format that page just for men aged 30-40 and what color schemes would work best for the web page. There were a lot of possible solutions, and none of the pages we went with were the first ideas. 
+   The first part of any good design for a project is first to find out what you are trying to even do in the first place. This is possibly the hardest problem that I faced because unlike math or other problems in computer science where there is generally a limited number of answers when it comes to design there is a near infinite number of solutions. This means instead of taking your first idea and running with it you really must think about it, and I found for the most part my first idea was nowhere even close to the best idea. The first project, [Design for others](https://medium.com/@tiffanykayo96/design-for-other-technocopia-e2034fbf00eb), helped to really emphasize this point. The project was to re-design a website for mobile phones for a certain demographic. At first, the designing for a certain demographic seemed like a restriction and was going to make the problem harder, but it helped in bringing the scope of the project down. In the first part of the project we focused on all the different ways we could format that page just for men aged 30-40 and what color schemes would work best for the web page. There were a lot of possible solutions, and none of the pages we went with were the first ideas. The project set the ground work for the brainstorming of future projects:
+   1. Scope the project, what can we do? 
+   2. What are you going to do?
+   3. who are you designing for?
+   4. Brain storm. 
+   5. Decide on a design and build it
+   
+### Part 2: You Failed, you undershot or you overshot
+Part of designing is building your original sketch. I had no experience with almost every piece of software and coding languages that were going to be used for the projects. Part 1 of the designing process was trying to scope the project to something that was manageable in the time that we had, but without knowing what the tools can do it is almost impossible to accurately define a reasonable goal for a project. In the project [Design for Understanding](https://medium.com/@alazargenene/earthquake-data-from-around-the-world-6e759890e153) this became very apparent when trying to create an interactive map. The original goal was to create a map that would allow a user to click in an area and a list of all the earthquakes and information about them would appear, so the user could see them. However, with this being the first time I was programing in HTML or Java script I was not able to succeed. After hours of banging my head into a wall I was able to find a way to show another map that was more intuitive, informative, and was thought to be way harder to program than the original idea. Sometimes the tools allow you to make a minor change to an idea and keep moving forward, but other times the idea may be too simple or too complicated to fix in time.
+### Part 3: You can start over
+The great part about having near infinite solutions to design problems is that if an idea is too complicated or isn’t going anywhere you can scrape it and try something else. Giving up too easily on an idea can be a problem, but there are times when giving up on it is the correct thing to do so there is a product at the end date or because there is a better product you can produce. While working on [Design for Well-being]( https://medium.com/@brianrojas_78421/design-for-well-being-distractions-357ca3bf3b72), which was a project to use the affectiva library which could read facial expression to develop a product that would help others in some way. The original idea was to have the camera read the persons emotions and try to make the person feel better. So, if they were mad the website might give them a calming quote, or if they were sad a quote that might pick them up. While fixing bugs in the original idea and setting up the affectiva library, we came up with a better idea that would help people more. The project changed to the webcam would keep track of how much the user was paying attention to the screen and would send them a notification if they became distracted by something other than work. The mistake made with a couple of these projects though was waiting until a complete proto-type was built to start user testing.
+### Part 4: You can’t user test early enough
+The whole point of designing anything is to share it with other people. So when it comes to designing pages for people it is very helpful to get their input. The goal of a proto-type is to have it be user tested and to fix it before releasing a final product, but from project experience this should not be the first time you are asking users for input. A project that this was crucial in was the [Design for Tension](https://medium.com/@nxgamarra/design-for-tension-c81434e5096c ) project. The goal of this project was to create a chat bot that could help someone with anything. Our group decided to make a chat bot that would take a neutral stance on marijuana issues and try to inform the user talking to the bot about he risks, benefits, legality and more. For this project we used Wizard of Oz testing to go through what a conversation would be like with the bot before making the bot. This allowed us to add questions we didn’t think of and to change the flow of conversation so that the bot was better for the proto-type. It’s important to test early and often with users, but you can’t test with everyone and the proto-type is always going to miss something.
+### Part 5: You missed something
+You can work on a proto-type for hours and try and find everything that could go wrong and fix all the bugs before releasing it, but there is no way that just you and your team are going to think of everything. A proto-type is a proto-type and is meant to have bugs and must have the possibility of getting better. In the last project [Design For Another World](https://medium.com/@ebgoldstein_96275/momma-museum-of-modern-meme-art-332ff75e97ae) was to have fun in VR. The project we ended up with a meme museum that a user could go through and see memes throughout the past 6 years. There was some common feed back that the pictures could have been clearer, but there were also ideas that would have made the final meme even better. Such as making the music louder when moving down the hall way, or not having the last video start until they were in the last room. Both ideas our group did not have but would make the project much better.  
+### Conclusion:
+If I learned anything from the projects in this class it’s that just like the rest of life failing is incredibly important when it comes to design. When designing anything if you only succeeded then you weren’t thinking big enough and spent way too much time designing. There are always more ideas to explore and new tools that are being created every day to help build future technology. You could have done user tests much earlier to get these different ideas, and with more time and users someone will eventually find a mistake in your design. 
 
 
 
-You can use the [editor on GitHub](https://github.com/msgonsalves/msgonsalves.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msgonsalves/msgonsalves.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
